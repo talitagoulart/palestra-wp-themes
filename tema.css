@@ -1,0 +1,46 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	font: 14px/1.2 Georgia, "Times New Roman", serif;
+	background: #D0D0D0;
+	color: #123456;
+	margin: 0 5%;
+}
+
+.main {
+	background: #FFF;
+	margin: 0 auto;
+	max-width: 980px;
+	overflow: hidden;
+}
+
+.site_header {
+	border-bottom: 1px solid #333;
+	padding: 50px;
+}
+
+.site_header h1 {
+	margin: 0;
+}
+
+.site_header h2 {
+	color: #669;
+	margin: 0;
+}
+
+.content {
+	padding: 0 50px;
+}
+
+.site_footer {
+	border-top: 1px solid #333;
+	padding: 20px 50px;
+}
+
+.post {
+	margin: 30px 0;
+}
